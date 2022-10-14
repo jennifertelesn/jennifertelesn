@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Welcome 😁
 
  <div>
    <a href="https://github.com/jennifertelesn">
