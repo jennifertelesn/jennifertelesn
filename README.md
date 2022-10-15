@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jennifer" src="https://user-images.githubusercontent.com/87283641/195988989-e5464107-8ead-4c85-9ec6-bb3879cd1890.png">
+  <img align="right" alt="Jennifer" src="https://tenor.com/view/hello-hi-wave-anime-gif-11503720.gif">
 </div>
  
  <br>
