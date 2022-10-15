@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Jennifer" src="https://media.giphy.com/media/hOlf36ciIzE88/giphy.gif">
+  <img align="right" alt="Jennifer" src="https://drive.google.com/file/d/1-aTc78fiTW31TP8hHZiG8prH-mjH7_9N/view">
 </div>
  
  <br>
