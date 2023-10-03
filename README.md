@@ -1,5 +1,7 @@
 ## Welcome 🐼
 
+<img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/446091199338774528/1158832269016956998/Untitled_Made_with_FlexClip.gif?ex=651dae26&is=651c5ca6&hm=8b2d965180c62082ab7434d136118d32f465c9b0ce6ca1b56ace56df7ebc0025&">
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +20,4 @@
   <a href = "https://www.linkedin.com/in/jennifertelesn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
  
- <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/446091199338774528/1158832269016956998/Untitled_Made_with_FlexClip.gif?ex=651dae26&is=651c5ca6&hm=8b2d965180c62082ab7434d136118d32f465c9b0ce6ca1b56ace56df7ebc0025&">
-
 </div>
